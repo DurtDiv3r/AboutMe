@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">About Me</string>
+    <string name="name">Brian Saunders</string>
+    <string name="avatar_image">Avatar image</string>
+    <string name="star_image">Star image</string>
+    <string name="bio_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed venenatis, enim a varius iaculis, justo nisi imperdiet urna, non vestibulum urna sem sed risus. In sed ex pulvinar turpis pulvinar aliquam quis vitae velit. Pellentesque ac elementum eros, id suscipit sapien. Donec ac consectetur ex. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec quis neque at lacus porta iaculis. Fusce scelerisque nulla vel dignissim lacinia. Cras eget sapien vel tortor imperdiet tempor. In hac habitasse platea dictumst. Nunc id orci sit amet ex ultrices ultricies. Nulla a mauris tincidunt sapien ullamcorper egestas nec eu lacus. Vestibulum eu dui a nunc maximus porttitor id ut libero. Suspendisse blandit et velit eget ullamcorper. Morbi placerat odio eget massa rhoncus rhoncus. Praesent mollis, elit quis aliquet auctor, nunc risus feugiat diam, nec pellentesque risus neque a ex.
+
+Ut congue eros et massa aliquet ultricies. Donec ac sem ultricies purus posuere blandit. Morbi in erat ligula. Morbi hendrerit justo ac bibendum mattis. Sed ullamcorper in magna at consectetur. Sed quis turpis augue. Nulla viverra finibus nulla, eu tincidunt risus. Morbi leo ex, scelerisque et rhoncus non, convallis quis augue. Sed elementum, tortor vitae viverra rhoncus, nulla enim venenatis lorem, ut euismod sem libero a justo. Proin consequat ornare dignissim. Donec sagittis a ex vel efficitur. Pellentesque fringilla porttitor gravida.</string>
+    <string name="hint_text">Enter a nickname</string>
+    <string name="done">Done</string>
 </resources>
